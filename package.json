@@ -1,0 +1,23 @@
+{
+  "name": "mapcluster",
+  "version": "1.0.0",
+  "description": "a map points cluster algorithmic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/magiclyl/cluster.git"
+  },
+  "keywords": [
+    "map",
+    "cluster地图聚合"
+  ],
+  "author": "yulongLi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magiclyl/cluster/issues"
+  },
+  "homepage": "https://github.com/magiclyl/cluster#readme"
+}
